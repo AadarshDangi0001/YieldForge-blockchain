@@ -160,4 +160,12 @@ Security is our top priority. Please report any security vulnerabilities to secu
 
 ---
 
-*Built with ❤️ for the DeFi community*
+
+## Contract Details
+
+- Contract Address: `0xE3Ff0a570Fbdc9F7A50a1b7afa16F802520FBdF9`
+- Deployed on: Remix IDE (Injected Provider)
+- Compiler Version: 0.8.19
+- Network: [e.g., Goerli Testnet]
+
+
